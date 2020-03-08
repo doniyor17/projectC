@@ -1,0 +1,22 @@
+{
+  "name": "constuction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doniyor17/conProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doniyor17/conProject/issues"
+  },
+  "homepage": "https://github.com/doniyor17/conProject#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
